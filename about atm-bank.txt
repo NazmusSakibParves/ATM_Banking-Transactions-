@@ -1,0 +1,24 @@
+
+Wellcome to our ATM_BANK operation.
+Our ATM Service:
+1.Account Holder's Informations
+2.Balance Inquiry
+3.Cash Withdral
+4.Deposit
+The special feature of the Investment Policy of the Bank is to invest on 
+the basis of profit-loss sharing system in accordance with the tenets and 
+principles of Islamic Shari'ah. Earning of profit is not the only motive and
+objective of the Bank's Investment Policy rather emphasis is given in 
+attaining social goal and objective in creating employment opportunities
+Transaction Limit(Tk.1,000 to Tk.5,00,0000 in a day)
+Tk.500 yeary fees is applicable for every user.
+For more information please contact those numbers:
++8801723462142,+8801553019969, +8801943497525, +8801741337720, +8801776829136
+or,visit:
+https://www.linkedin.com/in/nazmus-sakib-parves-134657b6/,
+E-mail:
+nazmussakib.parves.cse@gmail.com,
+fardin.porag@yahoo.com,
+twasim.link@gmail.com
+American International University-Bangladesh.
+
